@@ -3,5 +3,5 @@
 
 int main() 
 {
-    cout<<"hello GIT"<<endl;
+    cout<<"hello world"<<endl;
 }
