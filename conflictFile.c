@@ -3,5 +3,6 @@
 
 int main() 
 {
-    cout<<"My new rating"<<endl;
+   cout<<"My new rating"<<endl;
+   cout<<"Comment was added"<<endl;
 }
